@@ -62,9 +62,6 @@ class Program
                 Console.WriteLine("Goodbye!");
                 return;
             }
-            {
-                break;
-            }
 
             scripture.HideRandomWords(3);
         }
